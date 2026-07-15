@@ -1,3 +1,24 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Aniruddha%20Verma&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://www.github.com/aniruddha-verma">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Building+with+React+%2B+Node.js+%2B+MongoDB;AI-Powered+Apps+with+LLMs;Django+REST+%7C+System+Design+%7C+DSA" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=0ea5e9)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aniruddha-verma&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/aniruddha-verma?style=for-the-badge&color=7dd3fc&labelColor=0ea5e9&label=FOLLOWERS)
+
+</div>
+
+<br/>
+
 # 💫 About Me:
 Hi, I'm Aniruddha Lal Verma 👋<br><br>Software Engineer at HCLTech with experience spanning full-stack web development, backend engineering, and enterprise infrastructure management. Currently building dynamic, high-performance web applications and scalable REST APIs using React, Node.js, and Java.<br><br>🔹 Experienced in front-end development with React.js, JavaScript, Redux, Tailwind CSS, Material UI, and Bootstrap, building interactive and responsive UIs.<br><br>🔹 Backend expertise in Node.js, Express.js, Django REST Framework, RESTful APIs, MongoDB, and MySQL — improved system reliability by 12% and query performance by 20% in production systems.<br><br>🔹 Background in enterprise infrastructure management — IIS, Windows & Linux Servers, Apache, Tomcat — with strong automation skills using PowerShell, cutting manual workload by 15-25%.<br><br>🔹 Built full-stack projects including SummarAI (an AI-powered summarization platform), a Django REST API for hackathon/mentor dashboards, and Wanderlust Lucknow, an Airbnb-inspired booking platform.<br><br>🔹 Passionate about Agile development, CI/CD, and delivering reliable, user-focused software — maintained 99.9% system availability in production environments.<br><br>🏆 Microsoft Certified: Azure AI Engineer Associate<br>🏆 Delta (Full Stack Developer) — Apna College<br>🎓 Bachelor of Computer Applications (BCA), SASTRA Deemed University (CGPA: 9.4)<br><br>💡 Interests: Full Stack Development, System Design, RESTful APIs, Automation, Cloud Technologies, and AI-powered applications.<br><br>📈 Solved 300+ problems on LeetCode and 100+ on HackerRank, continuously sharpening my DSA and problem-solving skills.
 
