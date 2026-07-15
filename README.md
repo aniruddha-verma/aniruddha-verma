@@ -1,155 +1,31 @@
-<div align="center">
+# 💫 About Me:
+Hi, I'm Aniruddha Lal Verma 👋<br><br>Software Engineer at HCLTech with experience spanning full-stack web development, backend engineering, and enterprise infrastructure management. Currently building dynamic, high-performance web applications and scalable REST APIs using React, Node.js, and Java.<br><br>🔹 Experienced in front-end development with React.js, JavaScript, Redux, Tailwind CSS, Material UI, and Bootstrap, building interactive and responsive UIs.<br><br>🔹 Backend expertise in Node.js, Express.js, Django REST Framework, RESTful APIs, MongoDB, and MySQL — improved system reliability by 12% and query performance by 20% in production systems.<br><br>🔹 Background in enterprise infrastructure management — IIS, Windows & Linux Servers, Apache, Tomcat — with strong automation skills using PowerShell, cutting manual workload by 15-25%.<br><br>🔹 Built full-stack projects including SummarAI (an AI-powered summarization platform), a Django REST API for hackathon/mentor dashboards, and Wanderlust Lucknow, an Airbnb-inspired booking platform.<br><br>🔹 Passionate about Agile development, CI/CD, and delivering reliable, user-focused software — maintained 99.9% system availability in production environments.<br><br>🏆 Microsoft Certified: Azure AI Engineer Associate<br>🏆 Delta (Full Stack Developer) — Apna College<br>🎓 Bachelor of Computer Applications (BCA), SASTRA Deemed University (CGPA: 9.4)<br><br>💡 Interests: Full Stack Development, System Design, RESTful APIs, Automation, Cloud Technologies, and AI-powered applications.<br><br>📈 Solved 300+ problems on LeetCode and 100+ on HackerRank, continuously sharpening my DSA and problem-solving skills.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Aniruddha%20Verma&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.github.com/aniruddha-verma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Building+with+React+%2B+Node.js+%2B+MongoDB;AI-Powered+Apps+with+LLMs;Django+REST+%7C+System+Design+%7C+DSA" alt="Typing SVG" />
-</a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddha-verma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HumaaraAnni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anivp28@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aniruddha-verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aniruddha-verma&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aniruddha-verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=0ea5e9)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aniruddha-verma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aniruddha-verma&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/aniruddha-verma?style=for-the-badge&color=7dd3fc&labelColor=0ea5e9&label=FOLLOWERS)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aniruddha-verma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=aniruddha-verma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aniruddhaverma) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AniruddhaVerma) 
 
-## 👨‍💻 Who I Am
-
-```typescript
-const aniruddhaVerma = {
-  title: "Software Engineer",
-  stack: {
-    languages: ["HTML", "CSS", "JavaScript", "Java", "Python", "SQL"],
-    frameworks: [
-      "Node.js", "Express.js", "React", "Tailwind CSS",
-      "Bootstrap", "Material-UI", "Django REST", "Next.js"
-    ],
-    tools: ["Postman", "GitHub", "GitLab", "Figma", "Git", "Docker", "Kubernetes", "Cursor", "Claude"],
-    platforms: ["MongoDB", "MySQL", "VS Code", "Firebase", "Linux", "AWS"],
-    technologies: [
-      "RESTful APIs", "DSA", "Agile (Scrum & Kanban)",
-      "Automation", "PowerShell", "System Design", "Distributed Systems"
-    ],
-  },
-  launchedProjects: ["SummarAI", "Wanderlust Lucknow"],
-  status: "Building AI-powered full-stack applications",
-  openTo: ["Software Engineering roles", "Full Stack opportunities", "Collaborations"],
-};
-```
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 🧠 SummarAI — AI Powered Summarization Platform
-> Full-stack AI summarization platform with real-time AI chat, JWT auth, and Google OAuth 2.0.
-
-<div align="center">
-
-[![SummarAI](https://github-readme-stats.vercel.app/api/pin/?username=aniruddha-verma&repo=summarai&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc)](https://github.com/aniruddha-verma/summarai)
-
-</div>
-
-| Layer | Technology |
-|---|---|
-| Frontend | React, Tailwind CSS, Zustand |
-| Backend | Node.js, Express |
-| Database | MongoDB |
-| AI | Groq Llama 3.3 LLM |
-| Auth | JWT, Google OAuth 2.0 |
-| File Handling | Multer |
-
-**[🔗 Live Demo](https://summarai-app.vercel.app/app)** &nbsp;|&nbsp; **[💻 Code](https://github.com/aniruddha-verma/summarai)**
-
-<br/>
-
-### 🌍 Wanderlust Lucknow — Full Stack Booking Platform
-> Full-stack booking platform with full CRUD operations, EJS templating, and responsive UI across all devices.
-
-<div align="center">
-
-[![Wanderlust Lucknow](https://github-readme-stats.vercel.app/api/pin/?username=aniruddha-verma&repo=Wanderlust&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc)](https://github.com/aniruddha-verma/Wanderlust)
-
-</div>
-
-| Layer | Technology |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, Bootstrap, EJS |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Deployment | OnRender |
-| Version Control | Git, GitHub |
-
-**[🔗 Live Demo](https://wanderlust-lucknow.onrender.com/listings)** &nbsp;|&nbsp; **[💻 Code](https://github.com/aniruddha-verma/Wanderlust)**
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=html,css,js,java,python,sql)
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui)
-
-**Backend / Infra**
-
-![Skills](https://skillicons.dev/icons?i=nodejs,express,docker,kubernetes,linux)
-
-**Cloud**
-
-![Skills](https://skillicons.dev/icons?i=aws,firebase)
-
-**AI / DB**
-
-![Skills](https://skillicons.dev/icons?i=mongodb,mysql)
-
-**Dev Tools**
-
-![Skills](https://skillicons.dev/icons?i=postman,git,github,gitlab,figma,vscode)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aniruddha-verma&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha-verma&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="49%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=aniruddha-verma&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aniruddha-verma&no-frame=true&no-bg=true&theme=nord&row=1&column=7" width="90%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddha-verma&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="90%"/>
-
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-verma)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/u/aniruddha-verma)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
