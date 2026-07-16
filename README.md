@@ -19,7 +19,7 @@
 
 <br/>
 
-# 💫 About Me:
+# 💫 Who Am I:
 Hi, I'm Aniruddha Lal Verma 👋<br><br>Software Engineer at HCLTech with experience spanning full-stack web development, backend engineering, and enterprise infrastructure management. Currently building dynamic, high-performance web applications and scalable REST APIs using React, Node.js, and Java.<br><br>🔹 Experienced in front-end development with React.js, JavaScript, Redux, Tailwind CSS, Material UI, and Bootstrap, building interactive and responsive UIs.<br><br>🔹 Backend expertise in Node.js, Express.js, Django REST Framework, RESTful APIs, MongoDB, and MySQL — improved system reliability by 12% and query performance by 20% in production systems.<br><br>🔹 Background in enterprise infrastructure management — IIS, Windows & Linux Servers, Apache, Tomcat — with strong automation skills using PowerShell, cutting manual workload by 15-25%.<br><br>🔹 Built full-stack projects including SummarAI (an AI-powered summarization platform), a Django REST API for hackathon/mentor dashboards, and Wanderlust Lucknow, an Airbnb-inspired booking platform.<br><br>🔹 Passionate about Agile development, CI/CD, and delivering reliable, user-focused software — maintained 99.9% system availability in production environments.<br><br>🏆 Microsoft Certified: Azure AI Engineer Associate<br>🏆 Delta (Full Stack Developer) — Apna College<br>🎓 Bachelor of Computer Applications (BCA), SASTRA Deemed University (CGPA: 9.4)<br><br>💡 Interests: Full Stack Development, System Design, RESTful APIs, Automation, Cloud Technologies, and AI-powered applications.<br><br>📈 Solved 300+ problems on LeetCode and 100+ on HackerRank, continuously sharpening my DSA and problem-solving skills.
 
 
